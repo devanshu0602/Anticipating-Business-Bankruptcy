@@ -82,39 +82,39 @@ That's it! You can easily navigate through the web app using the provided naviga
         <ul>
             <li>
                 Prediction Case 1: If any of the field is left empty, the site throws an error “Please fill in all the fields.”
-                <img src="images\Picture3.png" alt="Homepage">
+                <img src="images\Picture3.png" alt="Prediction Case 1">
             </li>
             <li>
                 Prediction Case 2: Since the values are used for calculations, few of them are a part of the denominator. Hence, if those values are equal to 0, then the site throws the error “’{Field}’ cannot be 0.”
-                <img src="images\Picture4.png" alt="Homepage">
+                <img src="images\Picture4.png" alt="Prediction Case 2">
             </li>
             <li>
                 Prediction Case 3: When all the values are perfectly entered, the site gives a prediction. In this case, it says that the company is safe.
-                <img src="images\Picture5.png" alt="Homepage">
+                <img src="images\Picture5.png" alt="Prediction Case 3">
             </li>
             <li>
                 Prediction Case 4: When all the values are perfectly entered, the site gives a prediction. In this case, it says that the company is not safe and may go bankrupt.
-                <img src="images\Picture6.png" alt="Homepage">
+                <img src="images\Picture6.png" alt="Prediction Case 4">
             </li>
         </ul>
     </li>
     <br>
     <li>
         The ‘About’ section of the website:
-        <img src="images\Picture7.png" alt="Homepage">
+        <img src="images\Picture7.png" alt="About Section">
     </li>
     <br>
     <li>
         The ‘Contact Us’ section of the website:
-        <img src="images\Picture8.png" alt="Homepage">
+        <img src="images\Picture8.png" alt="Contact Us Section">
         <ul>
             <li>
                 Contact Us Case 1: If any of the field is left empty, the site throws an error “Please fill in all the fields.”
-                <img src="images\Picture9.png" alt="Homepage">
+                <img src="images\Picture9.png" alt="Contact Us Case 1">
             </li>
             <li>
                 Contact Us Case 2: When all the values are perfectly entered, the site return the message “Message submitted successfully! We will get back to you shortly.”
-                <img src="images\Picture10.png" alt="Homepage">
+                <img src="images\Picture10.png" alt="Contact Us Case 2">
             </li>
         </ul>
     </li>
